@@ -4,7 +4,7 @@
 - 💻 My skills: Java/Spring Boot/PostgreSQL/MSSSQL/C/C#/HTML/CSS/JavaScript
 - 🔧 I've worked on projects related to microservices architecture
 - 📫 How to reach me: yasinzc75@gmail.com
-- 👔 Connect with me on [LinkedIn](https://www.linkedin.com/in/yozyazici/)
+- 👔 Connect with me on [LinkedIn - YOzyazici](https://www.linkedin.com/in/yozyazici/)
 
 ## Yasin Özyazıcı's GitHub Stats
 
