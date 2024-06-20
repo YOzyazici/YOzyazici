@@ -1,7 +1,7 @@
 - Hi there 👋, I'm Yasin Özyazıcı
 - 🌱 I'm currently working on programming
 - 🌱 I'm currently learning Web Programming and Backend Development
-- 💻 My skills: Java/Spring Boot/PostgreSQL/MSSSQL/C/C#/HTML/CSS/JavaScript
+- 💻 My skills: Java/Spring Boot/PostgreSQL/MSSSQL/C/C#/.NET/EF/Mediapipe/Flutter/HTML/CSS/JavaScript
 - 🔧 I've worked on projects related to microservices architecture
 - 📫 How to reach me: yasinzc75@gmail.com
 - 👔 Connect with me on [LinkedIn - YOzyazici](https://www.linkedin.com/in/yozyazici/)
@@ -24,7 +24,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
