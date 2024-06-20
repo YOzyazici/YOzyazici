@@ -1,7 +1,7 @@
 - Hi there 👋, I'm Yasin Özyazıcı
 - 🌱 I'm currently working on programming
 - 🌱 I'm currently learning Web Programming and Backend Development
-- 💻 My skills: Java/Spring Boot/PostgreSQL/MSSSQL/C/C#/.NET/EF/Mediapipe/Flutter/HTML/CSS/JavaScript
+- 💻 My skills: Java/Spring Boot/PostgreSQL/MSSSQL/C/C#/.NET/EF/Mediapipe/Flutter/MongoDB/Redis/HTML/CSS/JavaScript
 - 🔧 I've worked on projects related to microservices architecture
 - 📫 How to reach me: yasinzc75@gmail.com
 - 👔 Connect with me on [LinkedIn - YOzyazici](https://www.linkedin.com/in/yozyazici/)
